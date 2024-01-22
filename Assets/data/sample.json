@@ -1,0 +1,31 @@
+{
+  "ads" : [
+    {
+      "title" : "New Meals",
+      "image" :"Assets/images/frenshtoast.png"
+    },
+    {
+      "title" : "Healthy Meals",
+      "image" : "Assets/images/detail_GlazedSalmon_2 copy.png"
+    },
+    {
+      "title" : "Less Carbs Meals",
+      "image" : "Assets/images/Cinnamon Toaast copy.png"
+
+    }
+
+  ],
+  "recipes" : [
+    {
+      "id" : 1,
+      "meal_type" : "breakfast",
+      "title" : "test title",
+      "description" : "test description",
+      "image" : "network_image",
+      "rating" : 4,
+      "calories" : 100,
+      "prep_time" : 120,
+      "serving" : 2
+    }
+  ]
+}
